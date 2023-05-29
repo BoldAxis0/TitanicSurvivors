@@ -1,5 +1,5 @@
 # TitanicSurvivors
-Basic ML algorithms of the Titanic survivors dataset 
+Basic ML algorithms on the Titanic survivors dataset 
 
 Current Top Score -> Random Forests with just Fare -> 70%
 
