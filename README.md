@@ -16,3 +16,4 @@ How much accuracy is too much accuracy?
 
 Should probably measure performance using cross validation, and only use test for final analysis, to prevent chances of indirect overfitting through my own finetuning? but this is my first project so its okay for now. Someday we will revisit this and do better.  
 
+I post my solutions file for this problem directly to the Kaggle competition(https://www.kaggle.com/competitions/titanic/overview), so scores are based directly on their test dataset solutions.
