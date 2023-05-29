@@ -11,10 +11,8 @@ Log Reg with fare + Pclass -> 69% (good growth, probably means log reg performs 
 
 Random Forests with Fare and Pclass -> 69% (slight decay, maybe attributable to randomness. In any case, more data/dimensions doesnt improve Random Forests, it seems)
 
-Next to try -> other algorithms, using more fields (preferably numeric, not categorical), working NN sometime in the future
+Could try next -> other algorithms, using more fields (preferably numeric, not categorical), working NN sometime in the future
 How much accuracy is too much accuracy?
 
-Should probably measure performance on a subset of training, and only use test for final analysis, to prevent chances of indirect overfitting through my own finetuning? 
-
-Nah, we'll think about overfitting later. 
+Should probably measure performance using cross validation, and only use test for final analysis, to prevent chances of indirect overfitting through my own finetuning? but this is my first project so its okay for now. Someday we will revisit this and do better.  
 
